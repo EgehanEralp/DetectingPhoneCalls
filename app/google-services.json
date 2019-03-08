@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820870024348",
+    "firebase_url": "https://challenge4-673e0.firebaseio.com",
+    "project_id": "challenge4-673e0",
+    "storage_bucket": "challenge4-673e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820870024348:android:16e59b672c01cae2",
+        "android_client_info": {
+          "package_name": "com.example.egehaneralp.challange5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820870024348-uo5bca2lj1pssp3ijv19fead6top914v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egehaneralp.challange5",
+            "certificate_hash": "4d359783e6a1cfb7ff9f900f6d846debf5919783"
+          }
+        },
+        {
+          "client_id": "820870024348-auellfi9tt5pcomrkdi9dsts5r73sgpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vvDg79Zd3bkbkk_9yHyBUD4TBvATuEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820870024348-auellfi9tt5pcomrkdi9dsts5r73sgpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
